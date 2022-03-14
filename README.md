@@ -18,14 +18,14 @@ Big boy Jumping é um jogo de plataforma 2D feito na Unity com C#
 ## 📣 Funcionalidades
 
 <p align="justify">
-✔️ Movimentacao & Logica do player 
-</br>✔️ Animacoes do personagem e objetos do cenario
+✔️ Movimentacao & Lógica do jogador
+</br>✔️ Animações de personagens e objetos do cenário
 </br>✔️ Coletar e contar itens
 </br>✔️ Plataformas que se movem
 </br>✔️ Serras que giram e se movem
-</br>✔️ Efeitos sonoros e musica de fundo
-</br>✔️ Multiplos levels
-</br>✔️ Menu de Start & Game over 
+</br>✔️ Efeitos sonoros e música de fundo
+</br>✔️ Níveis multiplos
+</br>✔️ Menu de início e fim do jogo
 </p>
 
 [![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
@@ -33,7 +33,7 @@ Big boy Jumping é um jogo de plataforma 2D feito na Unity com C#
 ## Como executar este projeto
 
 ```
-Para executar, você pode testar clicando no link do repositório ou usando fork/clone e usar a versao 2020.3.30f1 da Unity.
+Para executar, você pode testar clicando no link do repositório ou usando fork/clone e usar a versão 2020.3.30f1 da Unity.
 ```
 
 <a href="https://unity3d.com/pt/get-unity/download/archive">
