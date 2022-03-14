@@ -45,7 +45,10 @@
 ## 🤔 Como executar este projeto
 
 ```
-Para executar, você pode testar clicando no link do repositório ou usando fork/clone e usar a versão 2020.3.30f1 da Unity.
+Para executar, você pode testar clicando no link do repositório ou usando fork/clone
+```
+```
+Deve usar a versão 2020.3.30f1 da Unity.
 ```
 
 <a href="https://unity3d.com/pt/get-unity/download/archive">
