@@ -1,16 +1,28 @@
-<h1>
 <a href="https://play.unity.com/mg/other/big-boy-jumping">
-  <p align="center">
-    Site para testar o Big Boy Jumping
+  <p align="right" style="text-size: 24px">
+    🕹 Site para testar o Big Boy Jumping 🕹
   </p>
 </a>
-</h1>
 
-## 📃 Descrição do Projeto
+## 📚 Descrição do Projeto
+
+<h3 align="justify">Descrição</h3>
 
 <p align="justify">
-Big boy Jumping é um jogo de plataforma 2D feito na Unity com C#
-</br>O objetivo deste projeto é estudar como são criados os jogos de plataforma e também disponibilizar o código para melhorias e estudos.
+📗 Big boy Jumping é um jogo de plataforma 2D feito na Unity com C#
+
+</p>
+
+<h3 align="justify">Descrição</h3>
+
+<p align="justify">
+📕 O objetivo deste projeto é estudar como são criados os jogos de plataforma e também disponibilizar o código para melhorias e estudos.
+</p>
+
+<h3 align="justify">Descrição</h3>
+
+<p align="justify">
+📘 O objetivo deste projeto é estudar como são criados os jogos de plataforma e também disponibilizar o código para melhorias e estudos.
 </p>
 
 [![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
@@ -30,7 +42,7 @@ Big boy Jumping é um jogo de plataforma 2D feito na Unity com C#
 
 [![-----------------------------------------------------](https://user-images.githubusercontent.com/56088716/103312593-8a37ff80-49eb-11eb-91d3-75488e21a0a9.png) ](#table-of-contents)
 
-## Como executar este projeto
+## 🤔 Como executar este projeto
 
 ```
 Para executar, você pode testar clicando no link do repositório ou usando fork/clone e usar a versão 2020.3.30f1 da Unity.
