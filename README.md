@@ -9,7 +9,7 @@
 ## 📃 Descrição do Projeto
 
 <p align="justify">
-Um jogo 2D feito na unit com c#
+Big boy Jumping é um jogo de plataforma 2D feito na Unity com C#
 </br>O objetivo deste projeto é estudar como são criados os jogos de plataforma e também disponibilizar o código para melhorias e estudos.
 </p>
 
@@ -33,5 +33,11 @@ Um jogo 2D feito na unit com c#
 ## Como executar este projeto
 
 ```
-Para executar, você pode testar usando o link do repositório ou usando fork/clone.
+Para executar, você pode testar clicando no link do repositório ou usando fork/clone e usar a versao 2020.3.30f1 da Unity.
 ```
+
+<a href="https://unity3d.com/pt/get-unity/download/archive">
+  <p align="center">
+    Arquivo de download Unity
+  </p>
+</a>
