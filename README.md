@@ -1,6 +1,6 @@
 <a href="https://play.unity.com/mg/other/big-boy-jumping">
   <p align="right" style="text-size: 24px">
-    🕹 Site para testar o Big Boy Jumping 🕹
+   Site para testar o Big Boy Jumping 🕹
   </p>
 </a>
 
